@@ -109,7 +109,7 @@
 - 담당자: 신동민
 - 구현 목록
   1. 관리자 페이지 도서 등록, 수정, 조회, 삭제(Soft Delete)
-     1-1. 도서 등록 시 ToastUI WYSIWYG 적용
+     - 도서 등록 시 ToastUI WYSIWYG 적용
   2. 도서 판매, 절판, 매진, 삭제 상태 구현
   3. 도서 리스트 조회
   4. 도서 상세 조회
@@ -123,10 +123,10 @@
 - 담당자: 신동민
 - 구현 목록
   1. ELK 스택 사용
-    1-1. Elasticsearch 인덱스 생성, 매핑
-     1-1-1. Ngram, Nori 플러그인을 사용하여 분석기 설정
-    1-2. Logstash를 이용 데이터 생성
-    1-3. Kibana를 이용한 데이터 탐색
+    - Elasticsearch 인덱스 생성, 매핑
+      - Ngram, Nori 플러그인을 사용하여 분석기 설정
+      - Logstash를 이용 데이터 생성
+      - Kibana를 이용한 데이터 탐색
   2. 인기도순(조회수), 신상품순(출시일), 가격순, 평점순, 리뷰순으로 정렬 
   
 ### 장바구니 
@@ -175,9 +175,10 @@
 
 ### ObjectStorage 파일 관리
 - 담당자 : 신동민
-- NHN Cloud Object Storage를 통한 파일 관리
-- 파일 업로드, 수정, 삭제, 다운로드 처리
-- 파일 Multiple 기능 : multiple로 생성 및 수정이 가능하도록 구현
+- 구현 목록
+  1. NHN Cloud Object Storage를 통한 파일 관리
+  2. 파일 업로드, 수정, 삭제, 다운로드 처리
+  3. 파일 Multiple 기능 : multiple로 생성 및 수정이 가능하도록 구현
   
 ### 팀원 공통
 - 서버별 CI/CD 관리
