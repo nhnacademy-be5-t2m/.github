@@ -307,7 +307,7 @@
   - 포인트를 사용하여 결제금액 차감 가능
 
 ### front layout 구조 설게
-- page별 HTML layout(header,content,footer) 설계
+- page별 HTML layout 설계
 
   
 ## 팀원 공통
