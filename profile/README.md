@@ -131,6 +131,7 @@
 > Github 제공하는 `Projects`를 활용하여 전반적인 프로젝트 관리
 
 ### Scrum
+![image](https://github.com/nhnacademy-be5-t2m/.github/assets/89886506/f61a58ee-3df0-41c8-bde7-0575704366f0)
 - 시간
   - 매일 13:10 Scrum Meeting 진행
 - 회의 내용
@@ -143,11 +144,11 @@
 - github RoadMap 활용으로 전체적인 일정 진행상황 관리
 - 요구사항을 이슈로 작성해 역할을 분담한 후 일정 관리
 
-*Road Map*
+![image](https://github.com/nhnacademy-be5-t2m/.github/assets/89886506/74d6dc55-44f1-4a2b-961d-c89ae163ac3c)
+
 
 - github Kanban 활용으로 실시간 진행 상황 관리
-
-*Kanban*
+![image](https://github.com/nhnacademy-be5-t2m/.github/assets/89886506/4e996182-3f85-42a2-b680-741d08a9f6b0)
 
 ## Spring Rest Docs
 
