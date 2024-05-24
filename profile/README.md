@@ -318,7 +318,5 @@
 - 데이터베이스 설계 및 ERD Diagram 작성
 - NHN Cloud Load balance를 통해 front server 로드밸런싱
 - Eureka를 사용한 스프링 클라우드환경 구축
-  
-### 로그
 
 
