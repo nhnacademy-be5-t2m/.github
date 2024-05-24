@@ -150,8 +150,6 @@
 - github Kanban 활용으로 실시간 진행 상황 관리
 ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/89886506/4e996182-3f85-42a2-b680-741d08a9f6b0)
 
-## Spring Rest Docs
-
 
 # 기능 
 ## 김수빈
