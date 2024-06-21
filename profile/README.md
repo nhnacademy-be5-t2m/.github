@@ -12,11 +12,16 @@
 
 ### 최종 발표회 및 시상
 - 우수상 수상
-  ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/fc8a41db-9fc3-4744-89b2-4aa94d38c3f4)
+  
+  <img src = "https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/fc8a41db-9fc3-4744-89b2-4aa94d38c3f4" width="50%" />
 
 - 인증 및 검색기능 발표
-  ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/5595bd19-800a-41b3-88ca-aeafe9037ff8)
-  ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/7808ad5d-c370-4939-a459-5ed0983c99b4)
+
+<figure class="half">
+  <img src = "https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/5595bd19-800a-41b3-88ca-aeafe9037ff8" width="45%" />
+  <img src = "https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/7808ad5d-c370-4939-a459-5ed0983c99b4" width="45%" />
+</figure>
+
 
 
 ### 개발 환경
