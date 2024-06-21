@@ -10,6 +10,15 @@
 | <a href="https://github.com/KimSu-Been"><img src="https://avatars.githubusercontent.com/u/89886506?v=4" width="100px"><br>김수빈</a> | <a href="https://github.com/higromit"><img src="https://avatars.githubusercontent.com/u/146078058?v=4" width="100px"><br>김수현</a> | <a href="https://github.com/9JHP9"><img src="https://avatars.githubusercontent.com/u/155415302?v=4" width="100px"><br>박재희</a> |<a href="https://github.com/ehdals0405"><img src="https://avatars.githubusercontent.com/u/129938243?v=4" width="100px"><br>신동민</a> |<a href ="https://github.com/ssstopeun"> <img src ="https://avatars.githubusercontent.com/u/68415975?v=4" width ="100px"><br>정지은</a>
 |-----|-----|-----|----|-----|
 
+### 최종 발표회 및 시상
+- 우수상 수상
+  ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/fc8a41db-9fc3-4744-89b2-4aa94d38c3f4)
+
+- 인증 및 검색기능 발표
+  ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/5595bd19-800a-41b3-88ca-aeafe9037ff8)
+  ![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/7808ad5d-c370-4939-a459-5ed0983c99b4)
+
+
 ### 개발 환경
 - 개발도구: Intellij IDEA - Ultimate
 - 언어: Java 11 LTS<br>
