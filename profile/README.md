@@ -135,11 +135,6 @@
 
 
 <br>
-
-### 테스트 커버리지
-- 목표 : Line Coverage 80% 이상 (2024년 5월 10일 (금) 기준 35%)
-![image](https://github.com/nhnacademy-be5-t2m/.github/assets/68415975/186c9b9c-548b-47d1-a5be-12aeb453e244)
-
   
 ## Project Management
 > Github 제공하는 `Projects`를 활용하여 전반적인 프로젝트 관리
